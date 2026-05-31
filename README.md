@@ -1,4 +1,4 @@
-# FPGA UART Register Interface
+<img width="1536" height="1024" alt="ChatGPT Image May 27, 2026, 01_49_04 PM" src="https://github.com/user-attachments/assets/8813daa3-1bb3-46ba-9ca7-b72b1bae3a82" /># FPGA UART Register Interface
 
 A UART-based communication system written in Verilog/SystemVerilog.
 
