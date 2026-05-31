@@ -66,6 +66,7 @@ Simulation performed using:
 
 - EDA Playground
 - Icarus Verilog
+- Vivado 2024.1
 
 ### Example
 
